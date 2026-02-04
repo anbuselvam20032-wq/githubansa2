@@ -1,1 +1,2 @@
-thats the added js file entering new
+thats the added js file entering new thats
+
